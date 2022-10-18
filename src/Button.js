@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import { darken, rgba } from 'polished';
 import { color, typography } from './shared/styles';
 import { easing } from './shared/animation';
+// Test
 
 const Text = styled.span`
   display: inline-block;
